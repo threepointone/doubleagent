@@ -1,0 +1,16 @@
+{
+  "name": "doubleagent",
+  "version": "0.0.1",
+  "description": "npm/browserify friendly superagent",
+  "keywords": [],
+  "author": "Sunil Pai <threepointone@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/threepointone/doubleagent.git"
+  },
+  "dependencies": {
+    "superagent-browserify": "0.0.2"
+  },
+  "devDependencies": {},
+  "main": "index"
+}
